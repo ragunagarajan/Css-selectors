@@ -1,0 +1,31 @@
+/* element selector */
+div{
+	text-align:center;
+	color:blue;
+	border:3px dashed red;
+	padding:10px;
+	border-bottom-color:black;
+}
+/* Id selector */
+#kong {
+	text-align:right;
+	color:red;
+	border:2px solid black;
+	border-left-color:pink;
+}
+/* Class selector */
+.moon {
+	text-align:left;
+	color:darkgreen;
+	border:3px dotted;
+	border-top-color:blue;
+}
+/* Universal selector */
+*{
+	margin-bottom:20px;
+}
+a {
+	text-align:center;
+	font-size:65px;
+	text-decoration:none;
+}

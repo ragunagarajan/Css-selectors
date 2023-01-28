@@ -1,0 +1,10 @@
+h1{
+	text-align:center;
+	text-decoration:underline;
+}
+a[target] {
+	background-color:yellow;
+}
+[name~=yamaha] {
+	border: 5px solid red;
+}
